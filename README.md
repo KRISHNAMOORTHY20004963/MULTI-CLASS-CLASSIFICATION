@@ -27,7 +27,7 @@ The number of classifier models depends on the classification technique we are a
 /*
 Program to implement the multi class classifier.
 Developed by: krishnamoorthy.s
-RegisterNumber: 212220230027
+RegisterNumber: 212220230025
 */
 ```
 ```python
