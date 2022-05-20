@@ -1,9 +1,9 @@
 ### EX NO: 03
 
-### DATE: 
+### DATE: 8/04/22
 
 
-# <p align = "center"> MULTI-CLASS-CLASSIFICATION </p>
+# <p align = "center"> MULTI CLASS CLASSIFICATION </p>
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
 
